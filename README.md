@@ -16,8 +16,9 @@ This project demonstrates automated vulnerability scanning using [OWASP ZAP](htt
 ## 🛠️ Tools & Technologies
 
 - **OWASP ZAP**: Security scanner for web apps
-- **Python/JavaScript** (if applicable): Used in test web app
-- **Burp Suite** (optional): Cross-checking findings
+- **Python/JavaScript**: Used in test web app
+- **Burp Suite**: Cross-checking findings
+- **WebGoat/WebWolf**: A vulnerable web application for testing
 
 ---
 
