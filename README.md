@@ -57,6 +57,8 @@ In this exercise, I simulated how an attacker could gain unauthorized access to 
 - <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/b5d45d80-a5bf-42fd-9d47-c4e09d61345c" />
 - <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/c9a3079b-d070-4378-86aa-7e4af9124531" />
 - <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/1e26ad9f-1610-40b5-aad5-69ea18589f51" />
+- <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/14d5072d-60f0-42d0-9530-bed0f8e04a24" />
+
 ---
 
 ## ✅ Key outcomes:
