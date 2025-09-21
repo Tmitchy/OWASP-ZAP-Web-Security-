@@ -25,8 +25,11 @@ In this exercise, I simulated how an attacker could gain unauthorized access to 
 
 ---
 ## 🧩LAB STEPS
-- The first step I took was to create a proxy server to build a connection between the OWASP ZAP and the incoming and outgoing traffic from the web application. This will display all the traffic flow for vulnerability analysis. For this process, I used FoxyProxy. I created a name for the proxy, the type of protocol to be used, the hostname, and an assigned port number.
+## Set Up
+- The first step I took was to create a proxy server to build a connection between the OWASP ZAP and the incoming and outgoing traffic from the web application (WEBGOAT/WEBWOLF). This will display all the traffic flow for vulnerability analysis. For this process, I used FoxyProxy. I created a name for the proxy, the type of protocol to be used, the hostname, and an assigned port number.
 - <img width="700" height="10000" alt="proxy" src="https://github.com/user-attachments/assets/807277b8-73f1-4758-b5c5-8da68bebfdf5" />
+## Analyze Traffic
+- The next step I took was to analyze incoming and outgoing traffic for vulnerabilties in the web application. 
 - <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/96074d77-ae1c-45ee-8e29-c89e7317daa7" />
 - <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/03ea7c3d-5a8f-40ee-8760-d65a5cd56889" />
 - <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/b5d45d80-a5bf-42fd-9d47-c4e09d61345c" />
