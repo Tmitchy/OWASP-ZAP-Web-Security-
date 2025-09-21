@@ -54,9 +54,9 @@ In this exercise, I simulated how an attacker could gain unauthorized access to 
 
 -  Security Misconfigurations — discovering default credentials, unnecessary services, and insecure headers.
 
-- <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/b5d45d80-a5bf-42fd-9d47-c4e09d61345c" />
-- <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/c9a3079b-d070-4378-86aa-7e4af9124531" />
-- <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/1e26ad9f-1610-40b5-aad5-69ea18589f51" />
+- <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/b5d45d80-a5bf-42fd-9d47-c4e09d61345c" />
+- <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/c9a3079b-d070-4378-86aa-7e4af9124531" />
+- <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/1e26ad9f-1610-40b5-aad5-69ea18589f51" />
 ---
 
 ## ✅ Key outcomes:
@@ -66,5 +66,6 @@ In this exercise, I simulated how an attacker could gain unauthorized access to 
 -Learned how to recommend concrete mitigations (input validation, least privilege, secure session cookies, CSP, etc.).
 
 -Strengthened my investigative and remediation mindset — skills directly relevant to detection, triage, and incident response in a SOC.
+##
 
 I’m excited to apply these skills in real-world environments and continue my SOC Analyst journey.
