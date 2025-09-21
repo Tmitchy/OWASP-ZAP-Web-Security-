@@ -25,14 +25,14 @@ In this exercise, I simulated how an attacker could gain unauthorized access to 
 
 ---
 ## 🧩LAB STEPS
-## Set Up
-- The first step I took was to create a proxy server to build a connection between the OWASP ZAP and the incoming and outgoing traffic from the web application (WEBGOAT/WEBWOLF). This will display all the traffic flow for vulnerability analysis. For this process, I used FoxyProxy. I created a name for the proxy, the type of protocol to be used, the hostname, and an assigned port number.
+## 🏗 Set Up
+- The first step I took was to create a proxy server to establish a connection between OWASP ZAP and the incoming and outgoing traffic from the web application (WEBGOAT/WEBWOLF). This setup allowed me to monitor the traffic flow for vulnerability analysis. For this process, I used FoxyProxy. I configured a name for the proxy, selected the appropriate protocol type, specified the hostname, and assigned a port number.
 - Next, I ran the web application on Linux to complete the connection to receive network traffic from the Host and for this traffic to be displayed on the OWASP ZAP. 
 - <img width="700" height="10000" alt="proxy" src="https://github.com/user-attachments/assets/807277b8-73f1-4758-b5c5-8da68bebfdf5" />
 - <img width="760" height="500" alt="image" src="https://github.com/user-attachments/assets/dce5ff18-148a-4bdf-b81d-e7debf0a232a" />
 
 ## 🔎 Analyze Traffic
-- The next step I took was to analyze incoming and outgoing traffic for vulnerabilities in the web application. 
+-My next move was to dive deep into the data streams, scrutinizing both incoming and outgoing traffic for any potential vulnerabilities lurking within the web application. It was like being a detective, piecing together clues to ensure everything was secure and safeguarded. 
 - <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/96074d77-ae1c-45ee-8e29-c89e7317daa7" />
 - <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/03ea7c3d-5a8f-40ee-8760-d65a5cd56889" />
 ## Task
