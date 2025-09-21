@@ -31,7 +31,7 @@ In this exercise, I simulated how an attacker could gain unauthorized access to 
 - <img width="700" height="10000" alt="proxy" src="https://github.com/user-attachments/assets/807277b8-73f1-4758-b5c5-8da68bebfdf5" />
 - <img width="660" height="400" alt="image" src="https://github.com/user-attachments/assets/dce5ff18-148a-4bdf-b81d-e7debf0a232a" />
 
-## Analyze Traffic
+## 🔎 Analyze Traffic
 - The next step I took was to analyze incoming and outgoing traffic for vulnerabilities in the web application. 
 - <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/96074d77-ae1c-45ee-8e29-c89e7317daa7" />
 - <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/03ea7c3d-5a8f-40ee-8760-d65a5cd56889" />
@@ -40,19 +40,19 @@ In this exercise, I simulated how an attacker could gain unauthorized access to 
 
 -🔍 What I worked on (WebGoat tasks):
 
--SQL Injection — crafting injection strings, observing data exfiltration, and validating parameterized queries.
+-  SQL Injection — crafting injection strings, observing data exfiltration, and validating parameterized queries.
 
--Cross-Site Scripting (XSS) — identifying reflected and stored XSS and applying output encoding mitigations.
+-  Cross-Site Scripting (XSS) — identifying reflected and stored XSS and applying output encoding mitigations.
 
--Broken Authentication & Session Management — testing login flows, session fixation, and improving session handling.
+-  Broken Authentication & Session Management — testing login flows, session fixation, and improving session handling.
 
--Cross-Site Request Forgery (CSRF) — exploiting state-changing requests and implementing anti-CSRF tokens.
+-  Cross-Site Request Forgery (CSRF) — exploiting state-changing requests and implementing anti-CSRF tokens.
 
--Insecure Direct Object References / Broken Access Control — enumerating IDs, testing access checks, and enforcing authorization.
+-  Insecure Direct Object References / Broken Access Control — enumerating IDs, testing access checks, and enforcing authorization.
 
--Insecure Deserialization — understanding how untrusted input can lead to remote code execution and how to mitigate it.
+-  Insecure Deserialization — understanding how untrusted input can lead to remote code execution and how to mitigate it.
 
--Security Misconfigurations — discovering default credentials, unnecessary services, and insecure headers.
+-  Security Misconfigurations — discovering default credentials, unnecessary services, and insecure headers.
 
 - <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/b5d45d80-a5bf-42fd-9d47-c4e09d61345c" />
 - <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/c9a3079b-d070-4378-86aa-7e4af9124531" />
