@@ -27,7 +27,7 @@ In this exercise, I simulated how an attacker could gain unauthorized access to 
 ## 🧩LAB STEPS
 ## 🏗 Set Up
 - The first step I took was to create a proxy server to establish a connection between OWASP ZAP and the incoming and outgoing traffic from the web application (WEBGOAT/WEBWOLF). This setup allowed me to monitor the traffic flow for vulnerability analysis. For this process, I used FoxyProxy. I configured a name for the proxy, selected the appropriate protocol type, specified the hostname, and assigned a port number.
-- Next, I ran the web application on Linux to complete the connection to receive network traffic from the Host and for this traffic to be displayed on the OWASP ZAP. 
+- After that, I fired up the web application on Linux, eagerly diving into the process of establishing a connection. This step was crucial for capturing network traffic from the Host, which would then be beautifully showcased in OWASP ZAP.  
 - <img width="700" height="10000" alt="proxy" src="https://github.com/user-attachments/assets/807277b8-73f1-4758-b5c5-8da68bebfdf5" />
 - <img width="760" height="500" alt="image" src="https://github.com/user-attachments/assets/dce5ff18-148a-4bdf-b81d-e7debf0a232a" />
 
