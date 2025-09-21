@@ -1,14 +1,12 @@
 # 🔐 Web Security Testing with OWASP ZAP
 
 # 📝Overview
-This project demonstrates a Password Spraying Attack in a controlled lab environment using Kali Linux and Hydra.
-
-Unlike brute force (which tests many passwords against a single account), password spraying tests a few common passwords across many accounts to avoid lockouts. In this exercise, I simulated how an attacker could gain unauthorized access to a Windows share (HR on MS10) by leveraging weak/reused credentials.
-
-This project demonstrates automated vulnerability scanning using [OWASP ZAP](https://www.zaproxy.org/). It focuses on detecting and analyzing common web application vulnerabilities:
+This project demonstrates automated vulnerability scanning using [OWASP ZAP](https://www.zaproxy.org/). It focuses on detecting and analyzing common web application vulnerabilities in a controlled lab environment using Kali Linux:
 - SQL Injection (SQLi)
 - Cross-Site Scripting (XSS)
 - Cross-Site Request Forgery (CSRF)
+
+In this exercise, I simulated how an attacker could gain unauthorized access to a Windows share (HR on MS10) by leveraging weak/reused credentials.
 
 ## 📌 Objectives
 
@@ -24,6 +22,7 @@ This project demonstrates automated vulnerability scanning using [OWASP ZAP](htt
 - **Python/JavaScript**: Used in test web app
 - **Burp Suite**: Cross-checking findings
 - **WebGoat/WebWolf**: A vulnerable web application for testing
+## LAB STEPS
 - <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/96074d77-ae1c-45ee-8e29-c89e7317daa7" />
 - <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/03ea7c3d-5a8f-40ee-8760-d65a5cd56889" />
 - <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/b5d45d80-a5bf-42fd-9d47-c4e09d61345c" />
