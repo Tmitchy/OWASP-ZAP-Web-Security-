@@ -1,6 +1,6 @@
 # 🔐 Web Security Testing with OWASP ZAP
 
-# 📝Overview
+## 📝Overview
 This project demonstrates automated vulnerability scanning using [OWASP ZAP](https://www.zaproxy.org/). It focuses on detecting and analyzing common web application vulnerabilities in a controlled lab environment using Kali Linux:
 - SQL Injection (SQLi)
 - Cross-Site Scripting (XSS)
