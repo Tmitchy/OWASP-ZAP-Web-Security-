@@ -6,7 +6,7 @@ This project demonstrates automated vulnerability scanning using [OWASP ZAP](htt
 - Cross-Site Scripting (XSS)
 - Cross-Site Request Forgery (CSRF)
 
-In this exercise, I simulated how an attacker could gain unauthorized access to a Windows share (HR on MS10) by leveraging weak/reused credentials.
+In this exercise, I simulated how an attacker could gain unauthorized access to a web application.
 
 ## 📌 Objectives
 
