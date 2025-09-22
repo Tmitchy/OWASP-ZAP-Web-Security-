@@ -32,7 +32,7 @@ In this exercise, I simulated how an attacker could gain unauthorized access to 
 - <img width="760" height="500" alt="image" src="https://github.com/user-attachments/assets/dce5ff18-148a-4bdf-b81d-e7debf0a232a" />
 
 ## 🔎 Analyze Traffic
--My next move was to dive deep into the data streams, scrutinizing both incoming and outgoing traffic for any potential vulnerabilities lurking within the web application. It was like being a detective, piecing together clues to ensure everything was secure and safeguarded. 
+- My next move was to dive deep into the data streams, scrutinizing both incoming and outgoing traffic for any potential vulnerabilities lurking within the web application. It was like being a detective, piecing together clues to ensure everything was secure and safeguarded. 
 - <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/96074d77-ae1c-45ee-8e29-c89e7317daa7" />
 - <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/03ea7c3d-5a8f-40ee-8760-d65a5cd56889" />
 ## Task
@@ -63,11 +63,11 @@ In this exercise, I simulated how an attacker could gain unauthorized access to 
 
 ## ✅ Key outcomes:
 
--Gained practical, repeatable steps to identify and reproduce common web vulnerabilities.
+- Gained practical, repeatable steps to identify and reproduce common web vulnerabilities.
 
--Learned how to recommend concrete mitigations (input validation, least privilege, secure session cookies, CSP, etc.).
+- Learned how to recommend concrete mitigations (input validation, least privilege, secure session cookies, CSP, etc.).
 
--Strengthened my investigative and remediation mindset — skills directly relevant to detection, triage, and incident response in a SOC.
+- Strengthened my investigative and remediation mindset — skills directly relevant to detection, triage, and incident response in a SOC.
 ##
 
 I’m excited to apply these skills in real-world environments and continue my SOC Analyst journey.
