@@ -70,4 +70,4 @@ In this exercise, I simulated how an attacker could gain unauthorized access to 
 - Strengthened my investigative and remediation mindset — skills directly relevant to detection, triage, and incident response in a SOC.
 ##
 
-I’m excited to apply these skills in real-world environments and continue my SOC Analyst journey.
+`I’m excited to apply these skills in real-world environments and continue my SOC Analyst journey.`
